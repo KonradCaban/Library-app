@@ -1,0 +1,85 @@
+c:\users\anka\documents\visual studio 2015\Projects\szkola\szkola\bin\Debug\szkola.exe.config
+c:\users\anka\documents\visual studio 2015\Projects\szkola\szkola\bin\Debug\szkola.exe
+c:\users\anka\documents\visual studio 2015\Projects\szkola\szkola\bin\Debug\szkola.pdb
+c:\users\anka\documents\visual studio 2015\Projects\szkola\szkola\obj\Debug\szkola.csprojResolveAssemblyReference.cache
+c:\users\anka\documents\visual studio 2015\Projects\szkola\szkola\obj\Debug\szkola.Form1.resources
+c:\users\anka\documents\visual studio 2015\Projects\szkola\szkola\obj\Debug\szkola.Properties.Resources.resources
+c:\users\anka\documents\visual studio 2015\Projects\szkola\szkola\obj\Debug\szkola.csproj.GenerateResource.Cache
+c:\users\anka\documents\visual studio 2015\Projects\szkola\szkola\obj\Debug\szkola.exe
+c:\users\anka\documents\visual studio 2015\Projects\szkola\szkola\obj\Debug\szkola.pdb
+c:\users\anka\documents\visual studio 2015\Projects\szkola\szkola\obj\Debug\szkola.admin.resources
+C:\Users\User\Desktop\szkola\szkola\bin\Debug\szkola.exe.config
+C:\Users\User\Desktop\szkola\szkola\bin\Debug\szkola.exe
+C:\Users\User\Desktop\szkola\szkola\bin\Debug\szkola.pdb
+C:\Users\User\Desktop\szkola\szkola\obj\Debug\szkola.csprojAssemblyReference.cache
+C:\Users\User\Desktop\szkola\szkola\obj\Debug\szkola.Form1.resources
+C:\Users\User\Desktop\szkola\szkola\obj\Debug\szkola.Properties.Resources.resources
+C:\Users\User\Desktop\szkola\szkola\obj\Debug\szkola.csproj.GenerateResource.cache
+C:\Users\User\Desktop\szkola\szkola\obj\Debug\szkola.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\szkola\szkola\obj\Debug\szkola.exe
+C:\Users\User\Desktop\szkola\szkola\obj\Debug\szkola.pdb
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\bin\Debug\szkola.exe.config
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\obj\Debug\szkola.exe
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\obj\Debug\szkola.pdb
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\bin\Debug\szkola.exe
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\bin\Debug\szkola.pdb
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\obj\Debug\szkola.Form1.resources
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\obj\Debug\szkola.Properties.Resources.resources
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\obj\Debug\szkola.csproj.GenerateResource.Cache
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\bin\Debug\EntityFramework.dll
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\bin\Debug\EntityFramework.xml
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\obj\Debug\szkola.user.resources
+C:\Users\Anka\Desktop\szkola\szkola\szkola\bin\Debug\szkola.exe.config
+C:\Users\Anka\Desktop\szkola\szkola\szkola\obj\Debug\szkola.exe
+C:\Users\Anka\Desktop\szkola\szkola\szkola\obj\Debug\szkola.pdb
+C:\Users\Anka\Desktop\szkola\szkola\szkola\bin\Debug\szkola.exe
+C:\Users\Anka\Desktop\szkola\szkola\szkola\bin\Debug\szkola.pdb
+C:\Users\Anka\Desktop\szkola\szkola\szkola\bin\Debug\EntityFramework.dll
+C:\Users\Anka\Desktop\szkola\szkola\szkola\bin\Debug\EntityFramework.xml
+C:\Users\Anka\Desktop\szkola\szkola\szkola\obj\Debug\szkola.csprojResolveAssemblyReference.cache
+C:\Users\Anka\Desktop\szkola\szkola\szkola\obj\Debug\szkola.rejestracja.resources
+C:\Users\Anka\Desktop\szkola\szkola\szkola\obj\Debug\szkola.user.resources
+C:\Users\Anka\Desktop\szkola\szkola\szkola\obj\Debug\szkola.Form1.resources
+C:\Users\Anka\Desktop\szkola\szkola\szkola\obj\Debug\szkola.Properties.Resources.resources
+C:\Users\Anka\Desktop\szkola\szkola\szkola\obj\Debug\szkola.csproj.GenerateResource.Cache
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\obj\Debug\szkola.rejestracja.resources
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\obj\Debug\szkola.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\szkola\szkola\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\szkola\szkola\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\szkola\szkola\obj\Debug\szkola.rejestracja.resources
+C:\Users\User\Desktop\szkola\szkola\obj\Debug\szkola.user.resources
+C:\Users\User\Desktop\szkola\szkola\obj\Debug\szkola.csproj.CopyComplete
+C:\Users\User\Desktop\szkola\szkola\obj\Debug\szkola.administrator.resources
+C:\Users\Konrad\Desktop\szkola\szkola\bin\Debug\szkola.exe.config
+C:\Users\Konrad\Desktop\szkola\szkola\bin\Debug\szkola.exe
+C:\Users\Konrad\Desktop\szkola\szkola\bin\Debug\szkola.pdb
+C:\Users\Konrad\Desktop\szkola\szkola\bin\Debug\EntityFramework.dll
+C:\Users\Konrad\Desktop\szkola\szkola\bin\Debug\EntityFramework.xml
+C:\Users\Konrad\Desktop\szkola\szkola\obj\Debug\szkola.csprojAssemblyReference.cache
+C:\Users\Konrad\Desktop\szkola\szkola\obj\Debug\szkola.administrator.resources
+C:\Users\Konrad\Desktop\szkola\szkola\obj\Debug\szkola.rejestracja.resources
+C:\Users\Konrad\Desktop\szkola\szkola\obj\Debug\szkola.user.resources
+C:\Users\Konrad\Desktop\szkola\szkola\obj\Debug\szkola.Form1.resources
+C:\Users\Konrad\Desktop\szkola\szkola\obj\Debug\szkola.Properties.Resources.resources
+C:\Users\Konrad\Desktop\szkola\szkola\obj\Debug\szkola.csproj.GenerateResource.cache
+C:\Users\Konrad\Desktop\szkola\szkola\obj\Debug\szkola.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\Desktop\szkola\szkola\obj\Debug\szkola.csproj.CopyComplete
+C:\Users\Konrad\Desktop\szkola\szkola\obj\Debug\szkola.exe
+C:\Users\Konrad\Desktop\szkola\szkola\obj\Debug\szkola.pdb
+C:\Users\User\Desktop\konrad\szkola\szkola\bin\Debug\szkola.exe.config
+C:\Users\User\Desktop\konrad\szkola\szkola\bin\Debug\szkola.exe
+C:\Users\User\Desktop\konrad\szkola\szkola\bin\Debug\szkola.pdb
+C:\Users\User\Desktop\konrad\szkola\szkola\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\konrad\szkola\szkola\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\konrad\szkola\szkola\obj\Debug\szkola.csprojAssemblyReference.cache
+C:\Users\User\Desktop\konrad\szkola\szkola\obj\Debug\szkola.administrator.resources
+C:\Users\User\Desktop\konrad\szkola\szkola\obj\Debug\szkola.rejestracja.resources
+C:\Users\User\Desktop\konrad\szkola\szkola\obj\Debug\szkola.user.resources
+C:\Users\User\Desktop\konrad\szkola\szkola\obj\Debug\szkola.Form1.resources
+C:\Users\User\Desktop\konrad\szkola\szkola\obj\Debug\szkola.Properties.Resources.resources
+C:\Users\User\Desktop\konrad\szkola\szkola\obj\Debug\szkola.csproj.GenerateResource.cache
+C:\Users\User\Desktop\konrad\szkola\szkola\obj\Debug\szkola.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\konrad\szkola\szkola\obj\Debug\szkola.csproj.CopyComplete
+C:\Users\User\Desktop\konrad\szkola\szkola\obj\Debug\szkola.exe
+C:\Users\User\Desktop\konrad\szkola\szkola\obj\Debug\szkola.pdb
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\obj\Debug\szkola.administrator.resources

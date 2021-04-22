@@ -1,0 +1,13 @@
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\bin\Release\szkola.exe.config
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\bin\Release\szkola.exe
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\bin\Release\szkola.pdb
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\bin\Release\EntityFramework.dll
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\bin\Release\EntityFramework.xml
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\obj\Release\szkola.administrator.resources
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\obj\Release\szkola.rejestracja.resources
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\obj\Release\szkola.user.resources
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\obj\Release\szkola.Form1.resources
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\obj\Release\szkola.Properties.Resources.resources
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\obj\Release\szkola.csproj.GenerateResource.Cache
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\obj\Release\szkola.exe
+C:\Users\lifetecc\Documents\Visual Studio 2015\Projects\szkola\szkola\obj\Release\szkola.pdb
